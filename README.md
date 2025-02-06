@@ -7,3 +7,5 @@ Features
 3. Food Request & Donation: Donors can post food donations, and NGOs can accept these donations based on their location and requirements.
 4. Matching System: Automatically matches donors with nearby NGOs based on location and food availability.
 5. Donation Tracking: Both donors and NGOs can track the status of their donation (pending, accepted, delivered).
+
+the app is in progress.
